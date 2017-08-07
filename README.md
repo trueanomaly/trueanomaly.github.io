@@ -1,7 +1,7 @@
 
 # true[anomaly]
 ## Publishing for learners.
-'''javascript
+```javascript
 $('#something').css('color','#fff');
-'''
+```
 ## another header
